@@ -30,9 +30,8 @@ Add code from section “Observe TensorFlow speedup on GPU relative to CPU” an
 •	12-12x for Tesla K80 GPU
 
 
-(Optional part, created for students interested trying our deep learning in Google Colab)
  
-(optional) Part-5: Implement simple Neural Network and train a Sequential Keras Model
+Part-5: Implement simple Neural Network and train a Sequential Keras Model
 
 
 Assumption: Keras and Tensorflow are already installed within your Colab notebook based on work performed within parts 1,2,3,4.
